@@ -1,4 +1,4 @@
-# COM47350-FixYourStreet-Property-register-project
+# COM47350-FixYourStreet & Property Price Register Project
 Project realized for COMP47350 Data Analytics (University College Dublin) in collaboration with [harneyp2](https://github.com/harneyp2)
 
 ##Problem
